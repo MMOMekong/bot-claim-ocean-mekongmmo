@@ -66,7 +66,7 @@ Follow the steps below to install and run this bot on your system:
 
 4.  Run with docker command
     ```bash
-    sudo docker-compose up -d
+    sudo docker compose up -d
     ```
 5.  View logs
     ```bash
